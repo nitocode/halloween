@@ -10,9 +10,8 @@ export default defineConfig({
     }
   },
   // Configuration pour GitHub Pages
-  base: '/',
   build: {
-    outDir: 'dist',
+    outDir: './docs',
     assetsDir: 'assets',
     // Optimisations
     minify: 'terser',
