@@ -344,7 +344,7 @@ watch(scrollProgress, (newVal) => {
         </div>
 
         <div class="final-footer" :style="{ opacity: scrollProgress > 85 ? 1 : 0 }">
-          <p>Créé avec 💜 par <strong><a href="https://instagram.com/a_french_couple" target="_blank"
+          <p>Créé avec 💙🤍❤️ par <strong><a href="https://instagram.com/a_french_couple" target="_blank"
                 rel="noopener noreferrer">A French Couple</a></strong></p>
         </div>
       </div>
